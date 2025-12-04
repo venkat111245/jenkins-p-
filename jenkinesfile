@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/yourrepo/node-app.git'
+                git 'https://github.com/venkat111245/jenkins-p-.git'
             }
         }
 
